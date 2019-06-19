@@ -6,4 +6,5 @@ Oluşturduğum bu proje dosyasında Yapay Zeka konusuna hızlı bir başlangıç
 
 2) Makine öğrenmesi algoritmalarını(Tahmin etme, Sınıflandırma,Kümeleme) bu algoritmalardan bazıları : Lineer Regresyon,Polinomal Regresyon, K-NN(En yakın "K" komşu), Karar ağaçları vb. algoritmalarını öğrenerek yapay zeka alanına, makine öğrenmesi algoritmalarını öğrenerek giriş yapmış olursunuz. Derin öğrenme konusuna başlamadan önce makine öğrenmesi konularını öğrenmek, yapay zeka alanına giriş yapmak için temel oluşturur
 
+![resim](https://user-images.githubusercontent.com/49754308/59805056-ddaa9700-92f8-11e9-96b1-d2f5ad829f60.png)
 
